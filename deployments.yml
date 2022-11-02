@@ -21,12 +21,6 @@ on:
         required: true
       TEST_FLY_TOKEN:
         required: true
-      TEST_NETLIFY_TOKEN:
-        required: true
-      TEST_VERCEL_TOKEN:
-        required: true
-      TEST_VERCEL_USER_ID:
-        required: true
 
 jobs:
   arc_deploy:
